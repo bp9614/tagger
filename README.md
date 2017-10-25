@@ -1,0 +1,1 @@
+Gives the part of speech of each word found in the given file/sentence.
